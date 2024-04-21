@@ -9,11 +9,11 @@ html,
 body {
 	font-weight: bold;
 	padding: 50px 1vw;
-	color: #fff;
+	color: #112A46;
 	font-family: Poppins;
 }
 html {
-	background: #131313;
+	background: #53f092;
 }
 header {
 	position: absolute;
@@ -23,7 +23,7 @@ header {
 	top: 0;
 	width: calc(100% - 20px);
 	height: 90px;
-	background: #090909;
+	background: #05be0e;
 }
 header * {
 	max-height: 90px;
@@ -33,7 +33,7 @@ header * {
 }
 
 a {
-	color: white;
+	color: #252CA9;
 }
 #wgTitle {
 	line-height: 100%;
